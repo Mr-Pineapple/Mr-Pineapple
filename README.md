@@ -6,9 +6,9 @@ Bundled Items | Better Barrels
 [📚 View Code Repository](https://github.com/Mr-Pineapple/Bundled-Items-Fabric) | [📚 Code Repository](https://github.com/Mr-Pineapple/BetterBarrels)
 [🐞 Report Bugs](https://github.com/Mr-Pineapple/Bundled-Items-Fabric/issues) | [🐞 Report Bugs](https://github.com/Mr-Pineapple/BetterBarrels/issues)
 
-Modding Tutorials
+Modding Tutorials |
 --
-![Modding Tutorials](https://i.imgur.com/nAOYkSC.png)
-[🎥 Series](https://www.youtube.com/playlist?list=PL_A3Jq4AHpVu6V6elaTRTk5fUCKRDHK2g)
-[📚 View Code Repository](https://github.com/Mr-Pineapple/Pine-Tutorial)
-[🐞 Report Bugs](https://github.com/Mr-Pineapple/Pine-Tutorial/issues)
+![Modding Tutorials](https://i.imgur.com/nAOYkSC.png) |
+[🎥 Series](https://www.youtube.com/playlist?list=PL_A3Jq4AHpVu6V6elaTRTk5fUCKRDHK2g) |
+[📚 View Code Repository](https://github.com/Mr-Pineapple/Pine-Tutorial) |
+[🐞 Report Bugs](https://github.com/Mr-Pineapple/Pine-Tutorial/issues) |
