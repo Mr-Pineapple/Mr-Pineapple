@@ -8,7 +8,7 @@ Bundled Items | Better Barrels
 
 Modding Tutorials | Tutorial Discord Bot
 -- | --
-![Modding Tutorials](https://i.imgur.com/nAOYkSC.png)
+![Modding Tutorials](https://i.imgur.com/nAOYkSC.png) ![Discord](https://i.imgur.com/nAOYkSC.png)
 [🎥 View Series](https://www.youtube.com/playlist?list=PL_A3Jq4AHpVu6V6elaTRTk5fUCKRDHK2g) | [🎥 View Series](https://www.youtube.com/playlist?list=PL_A3Jq4AHpVuZpUQnjVtNjloZCkNMM2Cn)
 [📚 View Code Repository](https://github.com/Mr-Pineapple/Pine-Tutorial) | [📚 View Code Repository](https://github.com/Mr-Pineapple/Tutorial-Bot)
 [🐞 Report Bugs](https://github.com/Mr-Pineapple/Pine-Tutorial/issues) | [🐞 Report Bugs](https://github.com/Mr-Pineapple/Tutorial-Bot/issues)
