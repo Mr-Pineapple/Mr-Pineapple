@@ -12,3 +12,7 @@ Modding Tutorials | Discord Bot
 [🎥 Watch Series](https://www.youtube.com/playlist?list=PL_A3Jq4AHpVu6V6elaTRTk5fUCKRDHK2g) | [🎥 Watch Series](https://www.youtube.com/playlist?list=PL_A3Jq4AHpVuZpUQnjVtNjloZCkNMM2Cn)
 [📚 View Code Repository](https://github.com/Mr-Pineapple/Pine-Tutorial) | [📚 Code Repository](https://github.com/Mr-Pineapple/Tutorial-Bot)
 [🐞 Report Bugs](https://github.com/Mr-Pineapple/Pine-Tutorial/issues) | [🐞 Report Bugs](https://github.com/Mr-Pineapple/Tutorial-Bot/issues)
+
+More Projects Coming Soon | More Projects Coming Soon
+-- | --
+I have not made the code for these mods public yet so they aren't here yet | I have not made the code for these mods public yet so they aren't here yet
