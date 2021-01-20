@@ -8,10 +8,10 @@ Bundled Items | Better Barrels
 
 Modding Tutorials | Discord Bot
 -- | --
-![Modding Tutorials](https://i.imgur.com/v08QmHB.png)| ![Discord Bot](https://i.imgur.com/YqJApQ6.png)
-[🎥 Watch Series](https://www.youtube.com/playlist?list=PL_A3Jq4AHpVu6V6elaTRTk5fUCKRDHK2g) | [🎥 Watch Series](https://www.youtube.com/playlist?list=PL_A3Jq4AHpVuZpUQnjVtNjloZCkNMM2Cn)
-[📚 View Code Repository](https://github.com/Mr-Pineapple/Pine-Tutorial) | [📚 Code Repository](https://github.com/Mr-Pineapple/Tutorial-Bot)
-[🐞 Report Bugs](https://github.com/Mr-Pineapple/Pine-Tutorial/issues) | [🐞 Report Bugs](https://github.com/Mr-Pineapple/Tutorial-Bot/issues)
+![Modding Tutorials](https://i.imgur.com/v08QmHB.png |
+[🎥 Watch Series](https://www.youtube.com/playlist?list=PL_A3Jq4AHpVu6V6elaTRTk5fUCKRDHK2g) |
+[📚 View Code Repository](https://github.com/Mr-Pineapple/Pine-Tutorial) |  
+[🐞 Report Bugs](https://github.com/Mr-Pineapple/Pine-Tutorial/issues) |  
 
 Coming Soon | Coming Soon
 -- | --
