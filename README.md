@@ -6,13 +6,9 @@ Bundled Items | Better Barrels
 [📚 View Code Repository](https://github.com/Mr-Pineapple/Bundled-Items-Fabric) | [📚 Code Repository](https://github.com/Mr-Pineapple/BetterBarrels)
 [🐞 Report Bugs](https://github.com/Mr-Pineapple/Bundled-Items-Fabric/issues) | [🐞 Report Bugs](https://github.com/Mr-Pineapple/BetterBarrels/issues)
 
-Modding Tutorials | Discord Bot
+Modding Tutorials | New Projects
 -- | --
-![Modding Tutorials](https://i.imgur.com/v08QmHB.png |
+![Modding Tutorials](https://i.imgur.com/v08QmHB.png | I have 2 other projects that I am working on their code will be public soon
 [🎥 Watch Series](https://www.youtube.com/playlist?list=PL_A3Jq4AHpVu6V6elaTRTk5fUCKRDHK2g) |
 [📚 View Code Repository](https://github.com/Mr-Pineapple/Pine-Tutorial) |  
 [🐞 Report Bugs](https://github.com/Mr-Pineapple/Pine-Tutorial/issues) |  
-
-Coming Soon | Coming Soon
--- | --
-I have 2 mods currently under works that I will publish when released | I have 2 other projects that I am working on their code will be public soon
