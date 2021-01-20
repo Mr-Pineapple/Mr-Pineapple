@@ -6,11 +6,9 @@ Bundled Items | Better Barrels
 [📚 View Code Repository](https://github.com/Mr-Pineapple/Bundled-Items-Fabric) | [📚 Code Repository](https://github.com/Mr-Pineapple/BetterBarrels)
 [🐞 Report Bugs](https://github.com/Mr-Pineapple/Bundled-Items-Fabric/issues) | [🐞 Report Bugs](https://github.com/Mr-Pineapple/BetterBarrels/issues)
 
-Modding Tutorials | New Projects
+Modding Tutorials | Stats
 -- | --
-![Modding Tutorials](https://i.imgur.com/v08QmHB.png) | I have 2 other projects that I am working on their code will be public at some point
+![Modding Tutorials](https://i.imgur.com/v08QmHB.png) | [![Mr Pineapple's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Pineapple&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [🎥 Watch Series](https://www.youtube.com/playlist?list=PL_A3Jq4AHpVu6V6elaTRTk5fUCKRDHK2g) | 
 [📚 View Code Repository](https://github.com/Mr-Pineapple/Pine-Tutorial) |  
 [🐞 Report Bugs](https://github.com/Mr-Pineapple/Pine-Tutorial/issues) |  
-
-[![Mr Pineapple's GitHub stats!](https://github-readme-stats.vercel.app/api?username=Mr-Pineapple&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
