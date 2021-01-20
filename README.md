@@ -13,6 +13,7 @@ Modding Tutorials | New Projects
 [📚 View Code Repository](https://github.com/Mr-Pineapple/Pine-Tutorial) |  
 [🐞 Report Bugs](https://github.com/Mr-Pineapple/Pine-Tutorial/issues) |  
 
+Github Info | Github Info
 -- | --
 [![Mr Pineapple's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Pineapple&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Pineapple&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
