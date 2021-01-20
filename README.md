@@ -9,6 +9,8 @@ Bundled Items | Better Barrels
 Modding Tutorials | New Projects
 -- | --
 ![Modding Tutorials](https://i.imgur.com/v08QmHB.png) | I have 2 other projects that I am working on their code will be public at some point
-[🎥 Watch Series](https://www.youtube.com/playlist?list=PL_A3Jq4AHpVu6V6elaTRTk5fUCKRDHK2g) |
+[🎥 Watch Series](https://www.youtube.com/playlist?list=PL_A3Jq4AHpVu6V6elaTRTk5fUCKRDHK2g) | 
 [📚 View Code Repository](https://github.com/Mr-Pineapple/Pine-Tutorial) |  
 [🐞 Report Bugs](https://github.com/Mr-Pineapple/Pine-Tutorial/issues) |  
+
+[![Mr Pineapple's GitHub stats!](https://github-readme-stats.vercel.app/api?username=Mr-Pineapple&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
