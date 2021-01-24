@@ -15,5 +15,5 @@
 | [🐞 Report Bugs](https://github.com/Mr-Pineapple/MrPineapplesFoodMod-Fabric/issues) | [🎥 Watch Series](https://www.youtube.com/playlist?list=PL_A3Jq4AHpVu6V6elaTRTk5fUCKRDHK2g) |
 
 
-| [![Mr Pineapple's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Pineapple&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Pineapple&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Mr Pineapple's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Pineapple&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Pineapple&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 |:-----------:|:-----------:|
