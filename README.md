@@ -6,13 +6,13 @@
 | [📚 View Code Repository](https://github.com/Mr-Pineapple/Bundled-Items-Fabric) | [📚 View Code Repository](https://github.com/Mr-Pineapple/BetterBarrels) |
 | [🐞 Report Bugs](https://github.com/Mr-Pineapple/Bundled-Items-Fabric/issues) | [🐞 Report Bugs](https://github.com/Mr-Pineapple/BetterBarrels/issues) |
 
-| Mr. Pineapple's Food Mod | Modding Tutorials - Forge |
+| Mr. Pineapple's Food Mod | Mr. Pineapple's Toy Guns |
 |-----------|-----------|
-| ![Mr Pineapples Food Mod](https://i.imgur.com/HF6CpeV.png) | ![Modding Tutorials](https://i.imgur.com/v08QmHB.png) |
-| 📖 Mr. Pineapple's Food mod adds new edible items to the world of Minecraft. Through this mod, I bring you chocolate, pizzas, cakes and much more! | 📖 Want to create a Minecraft mod easily? Well, if you understand java and are ready to jump in I have a series here! |
-| [▶️Download Mod](https://www.curseforge.com/minecraft/mc-mods/mr-pineapples-food-mod) | 🌐 Webite Soon |
-| [📚 View Code Repository](https://github.com/Mr-Pineapple/MrPineapplesFoodMod-Fabric) | [📚 View Code Repository](https://github.com/Mr-Pineapple/Pine-Tutorial) |
-| [🐞 Report Bugs](https://github.com/Mr-Pineapple/MrPineapplesFoodMod-Fabric/issues) | [🎥 Watch Series](https://www.youtube.com/playlist?list=PL_A3Jq4AHpVu6V6elaTRTk5fUCKRDHK2g) |
+| ![Mr Pineapples Food Mod](https://i.imgur.com/HF6CpeV.png) | ![Toy Guns](https://i.imgur.com/jGUjiBR.gif) |
+| 📖 Mr. Pineapple's Food mod adds new edible items to the world of Minecraft. Through this mod, I bring you chocolate, pizzas, cakes and much more! | 📖 Mr. Pineapple's Toy Guns is an addon for the Gun Mod created by MrCrayfish. |
+| [▶️Download Mod](https://www.curseforge.com/minecraft/mc-mods/mr-pineapples-food-mod) | [▶️Download Mod](https://www.curseforge.com/minecraft/mc-mods/mr-pineapples-toy-guns) |
+| [📚 View Code Repository](https://github.com/Mr-Pineapple/MrPineapplesFoodMod-Fabric) | [📚 View Code Repository](https://github.com/Mr-Pineapple/MrPineapplesToyGuns) |
+| [🐞 Report Bugs](https://github.com/Mr-Pineapple/MrPineapplesFoodMod-Fabric/issues) | [🐞 Report Bugs](https://github.com/Mr-Pineapple/MrPineapplesToyGuns/issues) |
 
 
 | [![Mr Pineapple's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Pineapple&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Pineapple&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
