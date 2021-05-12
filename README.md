@@ -11,7 +11,7 @@
 | ![Mr Pineapples Food Mod](https://i.imgur.com/HF6CpeV.png) | ![Toy Guns](https://i.imgur.com/jGUjiBR.gif) |
 | 📖 Mr. Pineapple's Food mod adds new edible items to the world of Minecraft. Through this mod, I bring you chocolate, pizzas, cakes and much more! | 📖 Mr. Pineapple's Toy Guns is an addon for the Gun Mod created by MrCrayfish. |
 | [▶️Download Mod](https://www.curseforge.com/minecraft/mc-mods/mr-pineapples-food-mod) | [▶️Download Mod](https://www.curseforge.com/minecraft/mc-mods/mr-pineapples-toy-guns) |
-| [📚 View Code Repository](https://github.com/Mr-Pineapple/MrPineapplesFoodMod-Fabric) | [📚 View Code Repository](https://github.com/Mr-Pineapple/MrPineapplesToyGuns) |
+| [📚 View Code Repository](https://github.com/Mr-Pineapple/MrPineapplesFoodMod/) | [📚 View Code Repository](https://github.com/Mr-Pineapple/MrPineapplesToyGuns) |
 | [🐞 Report Bugs](https://github.com/Mr-Pineapple/MrPineapplesFoodMod-Fabric/issues) | [🐞 Report Bugs](https://github.com/Mr-Pineapple/MrPineapplesToyGuns/issues) |
 
 
